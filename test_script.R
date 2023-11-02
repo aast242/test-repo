@@ -32,3 +32,6 @@ d2 <- data.frame(nest = 1:n_nests,
 d2 <- mutate(d2, parasites = 20 -(cotton * 2.1) + error)
 
 plot(parasites ~ cotton, d2)
+
+#  Just a comment to see if this works
+
