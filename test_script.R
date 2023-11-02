@@ -3,9 +3,6 @@
 
 
 # Loading packages --------------------------------------------------------
-<<<<<<< HEAD
-library(tidyverse) # for all the tidy things
-=======
 library(tidyverse) # for all the tidythings
 
 
@@ -35,4 +32,3 @@ d2 <- data.frame(nest = 1:n_nests,
 d2 <- mutate(d2, parasites = 20 -(cotton * 2.1) + error)
 
 plot(parasites ~ cotton, d2)
->>>>>>> 5e1a888800bcc279d2ba26039d9cb1241b3d6145
