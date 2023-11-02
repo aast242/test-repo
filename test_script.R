@@ -2,7 +2,5 @@
 ## 11/02/2023
 
 
-
-#load packages
-
-library(tidyverse)
+# Loading packages --------------------------------------------------------
+library(tidyverse) # for all the tidythings
