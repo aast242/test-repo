@@ -3,4 +3,4 @@
 
 
 # Loading packages --------------------------------------------------------
-library(tidyverse) # for all the tidythings
+library(tidyverse) # for all the tidy things
