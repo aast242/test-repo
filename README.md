@@ -1,2 +1,2 @@
 # test-repo
-practice for 596w with collaborators Ceci Martinez and Raymond Owino
+practice for 596w with collaborators Alex Stewart, Ceci Martinez, and Raymond Owino
