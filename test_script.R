@@ -1,12 +1,13 @@
-##Ceci Martinez
-## 11/02/2023
+library(ape)
 
+ttn_tree = ape::read.nexus("./problematic_ttn.txt")
 
-# Loading packages --------------------------------------------------------
-library(tidyverse) # for all the tidythings
 
 # changing things
 
+
+
+write.csv(ttn_tree$tip.label, "problematic_ttn_labels.txt")
 
 #Categorical
 
